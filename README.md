@@ -24,10 +24,10 @@ FreeCodeCamp guided practice project. Build a set of colored markers. I learned 
 <h2>Coding walk-through:</h2>
 
 <p align="center">
-Preview: <br/>
+HTML5 Preview: <br/>
 <img src="https://i.imgur.com/GIAuUdk.png"/>
 <br />
-  Preview: <br/>
+ CSS Preview: <br/>
 <img src="https://i.imgur.com/W42X0Mr.png"/>
 <br>
 </p>
